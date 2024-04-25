@@ -13,7 +13,7 @@ public class ListaDeListas {
         List<Integer> lista7 = new ArrayList<>();
         List<Integer> lista8 = new ArrayList<>();
         List<Integer> lista9 = new ArrayList<>();
-        List<List> matriz = new ArrayList<>();
+        List<List<Integer>> matriz = new ArrayList<>();
 
         //agregamos datos a cada una de las listas
         lista1.addAll(List.of(1,2,3,4,5,6,7,8,9));
